@@ -1,1 +1,3 @@
-# mind_math_map
+# mind math map
+
+Репозиторий для тестирования mind math map
